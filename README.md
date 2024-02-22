@@ -1,5 +1,6 @@
 # Aurora
 Ray-Marched Aurora Borealis in Unity URP
+![movie_010 (2)](https://github.com/ardelvecchio/Aurora/assets/81535423/e0c90631-8ecf-4820-b92b-bbe1ff77014c)
 
 This Aurora Borealis was made using Unity's Scriptable Render Pipeline. The auroras are ray marched in a post processing shader that I wrote. The idea is as follows:
 
