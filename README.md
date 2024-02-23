@@ -15,3 +15,6 @@ The idea is as follows:
 3) Once we get this intersection point of our view direction with the inner sphere, we can begin to ray march along this path, that is, along the view direction of the ray. This ray will start at the intersection of the inner sphere, and end at the intersection of the outer sphere. At each point along this ray march, we will get the vector from the ray position to the sphere's origin. We can use this to sample, using uv coordinates, a texture that will represent our aurora. 
 
 From here the work is mostley behind us. We can scrolling noise now to create movement in our auroras, and to break up the auroras into different parts. 
+
+Here is a higher quality screen shot I took of the auroras.
+![Auroras](https://github.com/ardelvecchio/Aurora/assets/81535423/d9bbc4f9-1eda-4be1-a24b-2c323fd0dad6)
