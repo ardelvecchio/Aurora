@@ -1,8 +1,8 @@
 # Aurora
 Ray-Marched Aurora Borealis in Unity URP
 
+![Auroras](https://github.com/ardelvecchio/Aurora/assets/81535423/d9bbc4f9-1eda-4be1-a24b-2c323fd0dad6)
 
-![movie_010 (2)](https://github.com/ardelvecchio/Aurora/assets/81535423/e0c90631-8ecf-4820-b92b-bbe1ff77014c)
 
 This Aurora Borealis was made using Unity's Scriptable Render Pipeline. The auroras are ray marched in a post processing shader that I wrote. 
 
@@ -17,4 +17,5 @@ The idea is as follows:
 From here the work is mostley behind us. We can scrolling noise now to create movement in our auroras, and to break up the auroras into different parts. 
 
 Here is a higher quality screen shot I took of the auroras.
-![Auroras](https://github.com/ardelvecchio/Aurora/assets/81535423/d9bbc4f9-1eda-4be1-a24b-2c323fd0dad6)
+
+![movie_010 (2)](https://github.com/ardelvecchio/Aurora/assets/81535423/e0c90631-8ecf-4820-b92b-bbe1ff77014c)
