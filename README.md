@@ -16,6 +16,6 @@ The idea is as follows:
 
 From here the work is mostley behind us. We can scrolling noise now to create movement in our auroras, and to break up the auroras into different parts. 
 
-Here is a higher quality screen shot I took of the auroras.
+Here is a GIF of the auraras. Unfortunately Github doens't allow me to upload anything high quality.
 
 ![movie_010 (2)](https://github.com/ardelvecchio/Aurora/assets/81535423/e0c90631-8ecf-4820-b92b-bbe1ff77014c)
